@@ -14,6 +14,7 @@ Requires:
 - droid-config-wt88047-flashing
 - droid-config-wt88047-bluez5
 - droid-hal-version-wt88047
+- droid-hal-wt88047-detritus
 
 # Hybris packages
 - libhybris-libEGL
